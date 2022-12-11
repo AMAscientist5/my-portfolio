@@ -1,0 +1,19 @@
+.custom-img img {
+  width: 400px;
+  height: 500px;
+  object-fit: contain;
+  margin-top: 50px;
+}
+
+.banner-heading h1 {
+  font-size: 40px;
+  font-weight: bolder;
+}
+.banner-heading h2 {
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+.banner-heading h2:hover {
+  color: #3abff8;
+}

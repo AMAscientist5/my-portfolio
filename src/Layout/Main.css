@@ -1,0 +1,23 @@
+.custom-drawer li {
+  background-color: #181818;
+  color: gray;
+  border-bottom: 1px solid gray;
+  text-align: center;
+}
+.custom-drawer li a {
+  text-align: center;
+  flex-direction: column;
+}
+.custom-drawer li:hover {
+  color: #3abff8;
+}
+.custom-drawer {
+  background-color: #181818;
+}
+.text-title {
+  font-size: 12px;
+  color: gray;
+}
+.text-title:hover {
+  color: #3abff8;
+}
