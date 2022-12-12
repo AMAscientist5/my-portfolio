@@ -1,0 +1,15 @@
+.custom-services {
+  display: block;
+  width: 300px;
+  margin: 10px 0;
+}
+
+.custom-service-color {
+  background-color: #1d1d1d;
+  height: 100vh;
+}
+
+.custom-div {
+  width: auto;
+  margin: 0 auto;
+}

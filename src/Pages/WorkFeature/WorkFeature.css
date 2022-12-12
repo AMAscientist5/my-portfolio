@@ -1,12 +1,12 @@
 .work-feature-custom-color {
   background-color: #1d1d1d;
-  height: 100vh;
-  padding-top: 50px;
+  /* height: 100vh; */
+  /* padding-top: 50px; */
 }
 
-.work-feature-card div {
+/* .work-feature-card div {
   background: #ffffff;
-}
+} */
 
 .para-custom-size {
   font-size: 18px;

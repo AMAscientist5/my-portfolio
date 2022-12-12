@@ -1,8 +1,8 @@
-.custom-drawer li {
+.custom-li {
   background-color: #181818;
   color: gray;
-  border-bottom: 1px solid gray;
-  text-align: center;
+  /* border-bottom: 1px solid gray; */
+  /* text-align: center; */
 }
 .custom-drawer li a {
   text-align: center;

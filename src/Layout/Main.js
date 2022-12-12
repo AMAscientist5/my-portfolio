@@ -45,22 +45,22 @@ const Main = () => {
               Ahmad Musa <br />
               <span className="text-title">Web Developer</span>
             </Link>
-            <li>
+            <li className="custom-li">
               <Link to="/">Home</Link>
             </li>
-            <li>
+            <li className="custom-li">
               <Link to="/about">About</Link>
             </li>
-            <li>
+            <li className="custom-li">
               <Link to="/workfeature">Work Feature</Link>
             </li>
-            <li>
+            <li className="custom-li">
               <Link to="/myskill">My Skill</Link>
             </li>
-            <li>
-              <Link>Article</Link>
+            <li className="custom-li">
+              <Link to="/blog">Blog</Link>
             </li>
-            <li>
+            <li className="custom-li">
               <a
                 href="https://drive.google.com/file/d/1bnwNgE41qLG85_o1OwdO0OXoY2rugq8n/view?usp=sharing"
                 target="blank"
@@ -68,13 +68,13 @@ const Main = () => {
                 Resume
               </a>
             </li>
-            <li>
-              <Link>Services</Link>
+            <li className="custom-li">
+              <Link to="services">Services</Link>
             </li>
-            <li>
-              <Link>Testimonial</Link>
+            <li className="custom-li">
+              <Link to="/testimonial">Testimonial</Link>
             </li>
-            <li>
+            <li className="custom-li">
               <Link to="/getintouch">Get In Touch</Link>
             </li>
           </ul>
